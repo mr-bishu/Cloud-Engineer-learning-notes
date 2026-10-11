@@ -271,7 +271,7 @@ They can be used to authenticate to remote systems, so unauthorized access could
 
 ## Practice Checklist
 
-- [ ] I can use `pwd`, `ls`, and `cd`.
+- [.] I can use `pwd`, `ls`, and `cd`.
 - [ ] I can create directories using `mkdir`.
 - [ ] I can create files using `touch`.
 - [ ] I can read file contents using `cat`.
