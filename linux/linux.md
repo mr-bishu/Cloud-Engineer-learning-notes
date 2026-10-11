@@ -271,7 +271,7 @@ They can be used to authenticate to remote systems, so unauthorized access could
 
 ## Practice Checklist
 
-- [.] I can use `pwd`, `ls`, and `cd`.
+- [ ] I can use `pwd`, `ls`, and `cd`.
 - [ ] I can create directories using `mkdir`.
 - [ ] I can create files using `touch`.
 - [ ] I can read file contents using `cat`.
@@ -287,7 +287,6 @@ They can be used to authenticate to remote systems, so unauthorized access could
 
 - **Day 1:** Linux fundamentals and basic navigation.
 - **Day 2:** File management and permissions.
-- **Next:** Day 3 — Linux users, groups, ownership, and `sudo`.
 
 **Goal:** Build practical Linux skills for AWS Cloud Engineering, with hands-on exercises and interview preparation.
 
